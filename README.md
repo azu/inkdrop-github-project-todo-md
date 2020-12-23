@@ -32,8 +32,12 @@ Example result:
 
 ```markdown
 Project: https://github.com/azu/github-project-todo-md/projects/1
+```
 
-https://github.com/azu/github-project-todo-md/projects/1
+to be
+
+```markdown
+Project: https://github.com/azu/github-project-todo-md/projects/1
 
 ## To do
 
@@ -60,8 +64,6 @@ If your note is following, This plugin open `issues/4` and `issues/3`, also clos
 
 ```markdown
 Project: https://github.com/azu/github-project-todo-md/projects/1
-
-https://github.com/azu/github-project-todo-md/projects/1
 
 ## To do
 
