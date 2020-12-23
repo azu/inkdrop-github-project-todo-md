@@ -2,13 +2,21 @@
 
 Sync between GitHub Project Board <-> Markdown Todo text.
 
+![Video](https://user-images.githubusercontent.com/19714/103011870-ffd04580-457d-11eb-9560-d69b057a97e7.mp4)
+
 ## Installation
 
     ipm install sync-github-project-todo-md
 
+## Configuration
+
+Set GitHub Personal Token that you can get from <https://github.com/settings/tokens/new>
+
+1. Preferences > Plugins > sync-github-project-todo-md > `github_token`
+
 ## Usage
 
-Prepare: Your note should include a GitHub Project URL liks `https://github.com/azu/github-project-todo-md/projects/1`.
+Prepare: Your note should include a GitHub Project URL like `https://github.com/azu/github-project-todo-md/projects/1`.
 
 ```markdown
 Project: https://github.com/azu/github-project-todo-md/projects/1
