@@ -1,7 +1,7 @@
 {
   "name": "sync-github-project-todo-md",
   "main": "./lib/github-project-todo-md",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/azu/inkdrop-github-project-todo-md",
