@@ -83,6 +83,11 @@ Project: https://github.com/azu/github-project-todo-md/projects/1
 
 - [x] [DONE ISSUE](https://github.com/azu/github-project-todo-md/issues/5)
 ```
+
+## Related
+
+- [azu/github-project-todo-md: A Tool that sync between GitHub Project Board <-> Todo Markdown text.](https://github.com/azu/github-project-todo-md)
+
 ## Tests
 
 - [ ] Write How to Tests
