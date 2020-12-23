@@ -2,8 +2,12 @@
   "context-menu": {
     ".CodeMirror": [
       {
-        "label": "Toggle github-project-todo-md",
+        "label": "Pull from GitHub Project",
         "command": "sync-github-project-todo-md:pull"
+      },
+      {
+        "label": "Push to GitHub Project",
+        "command": "sync-github-project-todo-md:push"
       }
     ]
   },
