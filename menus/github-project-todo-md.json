@@ -3,7 +3,7 @@
     ".CodeMirror": [
       {
         "label": "Toggle github-project-todo-md",
-        "command": "github-project-todo-md:pull"
+        "command": "sync-github-project-todo-md:pull"
       }
     ]
   },
@@ -12,15 +12,15 @@
       "label": "Plugins",
       "submenu": [
         {
-          "label": "github-project-todo-md",
+          "label": "sync-github-project-todo-md",
           "submenu": [
             {
               "label": "Pull from GitHub Project",
-              "command": "github-project-todo-md:pull"
+              "command": "sync-github-project-todo-md:pull"
             },
             {
               "label": "Push to GitHub Project",
-              "command": "github-project-todo-md:push"
+              "command": "sync-github-project-todo-md:push"
             }
           ]
         }
