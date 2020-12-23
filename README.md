@@ -62,6 +62,8 @@ Sync your note task checked to each GitHub Issues and Pull Requests.
 
 If your note is following, This plugin open `issues/4` and `issues/3`, also close `issues/5`.
 
+These issues and pull requests should be included in `projects/1`.
+
 ```markdown
 Project: https://github.com/azu/github-project-todo-md/projects/1
 
