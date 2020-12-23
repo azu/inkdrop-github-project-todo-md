@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle github-project-todo-md",
+        "command": "github-project-todo-md:pull"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "github-project-todo-md",
+          "submenu": [
+            {
+              "label": "Pull from GitHub Project",
+              "command": "github-project-todo-md:pull"
+            },
+            {
+              "label": "Push to GitHub Project",
+              "command": "github-project-todo-md:push"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
