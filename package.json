@@ -1,7 +1,7 @@
 {
   "name": "sync-github-project-todo-md",
   "main": "./lib/github-project-todo-md",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Sync between GitHub Project Board <-> Markdown Todo text.",
   "keywords": [],
   "repository": "https://github.com/azu/inkdrop-github-project-todo-md",
