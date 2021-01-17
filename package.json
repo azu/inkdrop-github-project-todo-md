@@ -10,6 +10,6 @@
     "inkdrop": "^5.x"
   },
   "dependencies": {
-    "github-project-todo-md": "^1.2.1"
+    "github-project-todo-md": "^1.2.2"
   }
 }
