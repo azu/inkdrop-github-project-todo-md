@@ -11,5 +11,24 @@
   },
   "dependencies": {
     "github-project-todo-md": "^1.4.3"
+  },
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,css}\"",
+    "prepare": "git config --local core.hooksPath .githooks"
+  },
+  "prettier": {
+    "singleQuote": false,
+    "printWidth": 120,
+    "tabWidth": 4,
+    "trailingComma": "none"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,css}": [
+      "prettier --write"
+    ]
+  },
+  "devDependencies": {
+    "lint-staged": "^11.2.3",
+    "prettier": "^2.4.1"
   }
 }
