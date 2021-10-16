@@ -2,7 +2,7 @@
 
 Sync between GitHub Project Board <-> Markdown Todo text.
 
-Video: https://user-images.githubusercontent.com/19714/103011870-ffd04580-457d-11eb-9560-d69b057a97e7.mp4
+![](https://user-images.githubusercontent.com/19714/103011870-ffd04580-457d-11eb-9560-d69b057a97e7.mp4)
 
 ## Installation
 
