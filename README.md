@@ -18,7 +18,7 @@ Set GitHub Personal Token that you can get from <https://github.com/settings/tok
 
 ## Usage
 
-Prepare: Your note should include a GitHub Project URL like `https://github.com/azu/github-project-todo-md/projects/1`.
+Prepare: Your note should include a GitHub Project URL like `https://github.com/azu/github-project-todo-md/projects/1` at first line.
 
 ```markdown
 Project: https://github.com/azu/github-project-todo-md/projects/1
