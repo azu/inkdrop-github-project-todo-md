@@ -10,7 +10,7 @@
     "inkdrop": "^5.x"
   },
   "dependencies": {
-    "github-project-todo-md": "^1.4.3"
+    "github-project-todo-md": "^1.4.4"
   },
   "scripts": {
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,css}\"",
@@ -28,7 +28,7 @@
     ]
   },
   "devDependencies": {
-    "lint-staged": "^11.2.3",
+    "lint-staged": "^12.0.3",
     "prettier": "^2.4.1"
   }
 }
